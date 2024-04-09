@@ -1,5 +1,5 @@
 # FileProcessor
-### First version 0.0.0.0
+### First release, version 0.0.0.0
 1) Split any file into a number of segments.
 2) Merge the segments of a file into a single file.
 3) This application is completely free. 
