@@ -16,7 +16,7 @@
 <table>
 <tr>
 <td> 
-<img src="./Media/ver-0-0.jpg" alt="The snapshot of the File Processor, version 0.0"  with="400"/>Figure 1. The snapshot of the File Processor, version 0.0.
+<img src="./Media/ver-0-0.jpg" alt="The snapshot of the File Processor, version 0.0"  width="400"/>Figure 1. The snapshot of the File Processor, version 0.0.
 </td>
 <td>
 <img src="./Media/ver-0-1.jpg" alt="The snapshot of the File Processor, version 0.1" width="400" />Figure 2. The snapshot of the File Processor, version 0.1.
